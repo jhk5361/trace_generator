@@ -2,10 +2,6 @@
 	path = valgrind
 	url = https://github.com/jhk5361/valgrind_cachetrace
 	branch = migopt
-[submodule "kernel"]
-	path = kernel
-	url = https://github.com/dgist-datalab/cxl-kernel
-	branch = cxl-minjae
 [submodule "run_script/benchmark/vmitosis-workloads"]
 	path = run_script/benchmark/vmitosis-workloads
 	url = https://github.com/jhk5361/vmitosis-workloads
