@@ -1,6 +1,6 @@
 [submodule "valgrind"]
 	path = valgrind
-	url = https://github.com/dgist-datalab/valgrind_cachetrace
+	url = https://github.com/jhk5361/valgrind_cachetrace
 	branch = master
 [submodule "kernel"]
 	path = kernel
