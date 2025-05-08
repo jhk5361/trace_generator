@@ -15,6 +15,7 @@ while (( "$#" )); do
 				#INPUT_FILE=$2
 				INPUT_FILE="${@:2}"
 				INPUT_FILE_YES=1
+				echo "$INPUT_FILE"
                 shift 2
 				break
             else
